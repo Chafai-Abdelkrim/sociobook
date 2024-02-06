@@ -12,9 +12,13 @@
 
 
 
+https://github.com/Chafai-Abdelkrim/sociobook/assets/85552625/b9b2389a-89e0-403f-b550-067d2a18886e
+
+
+
 ## 📝 Description
 
-In this project I Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode.<br/>
+In this project, I Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode.<br/>
 -The backend was built with Node and Express.<br/>
 -MongoDB for the database.<br/>
 -React and MUI for Frontend and styling.<br/>
